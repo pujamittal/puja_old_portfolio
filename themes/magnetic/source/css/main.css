@@ -279,7 +279,7 @@ h5, h6          { font-weight: bolder }
     box-sizing: border-box;
     position: relative;
     z-index: 55;
-    background-image: url("background.jpg");
+    background-image: url("/images/background.jpg");
     clear: both;
     min-height: 100vh;
 }
