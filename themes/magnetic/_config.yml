@@ -1,41 +1,8 @@
 # Header
 menu:
   Home: /
-  Memes: /tags/memes
-  Arthur: /tags/arthur
-  Leo0: /tags/leo0
-  Leo1: /tags/leo1
-  Leo2: /tags/leo2
-  Leo3: /tags/leo3
-  Leo4: /tags/leo4
-  Leo5: /tags/leo5
-  Leo6: /tags/leo6
-  Leo7: /tags/leo7
-  Leo8: /tags/leo8
-  Leo9: /tags/leo9
-  Leo10: /tags/leo10
-  Leo11: /tags/leo11
-  Leo12: /tags/leo12
-  Leo13: /tags/leo13
-  Leo14: /tags/leo14
-  Leo15: /tags/leo15
-  Leo16: /tags/leo16
-  Leo17: /tags/leo17
-  Leo18: /tags/leo18
-  Leo19: /tags/leo19
-  Leo20: /tags/leo20
-  Leo21: /tags/leo21
-  Leo22: /tags/leo22
-  Leo23: /tags/leo23
-  Leo24: /tags/leo24
-  Leo25: /tags/leo25
-  Leo26: /tags/leo26
-  Leo27: /tags/leo27
-  Leo28: /tags/leo28
-  Leo29: /tags/leo29
-  Leo30: /tags/leo30
-  Leo31: /tags/leo31
-  Leo32: /tags/leo32
+  Logos: /tags/Logos
+  Posters: /tags/Posters
 
 # Default post title
 default_post_title: Untitled
