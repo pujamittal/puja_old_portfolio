@@ -1,12 +1,12 @@
 <!-- Navigation -->
 <header>
     <div class="logo">
-        <a href="<%- config.root %>"><%- config.title || "" %></a>
+        <a href="<%- config.root %>"><%- config.title || "" %><img id='LOGO' src="" style="max-width: 80%;"/></a>
     </div><!-- end logo -->
 
     <div id="menu_icon"></div>
     <nav>
-        <ul>
+        <ul style="overflow:hidden; overflow-y:scroll; max-height:300px;">
             <% for (var i in theme.menu){ %>
             <li>
                 <a href="<%- url_for(theme.menu[i]) %>"><%= i %></a>

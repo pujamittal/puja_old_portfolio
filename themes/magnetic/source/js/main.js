@@ -1,5 +1,14 @@
 $(document).ready(function(){
 
+    var logos = [
+        "/images/me1.png",
+        "/images/me2.png",
+        "/images/me3.png",
+        "/images/me4.png"
+    ];
+    var size = logos.length;
+    var x = Math.floor(size * Math.random());
+    document.getElementById('LOGO').src = logos[x];
 
 
     //mobile menu toggling
