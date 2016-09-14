@@ -285,7 +285,7 @@ h5, h6          { font-weight: bolder }
     box-sizing: border-box;
     position: relative;
     z-index: 55;
-    background-image: url("/images/blue.jpeg");
+    background-image: url("/images/pineapple.jpeg");
     clear: both;
     min-height: 100vh;
 }
