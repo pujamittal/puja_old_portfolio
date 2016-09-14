@@ -3,6 +3,7 @@ menu:
   Home: /
   Logos: /tags/Logos
   Posters: /tags/Posters
+  Banners: /tags/Banners
 
 # Default post title
 default_post_title: Untitled
@@ -30,6 +31,6 @@ google_analytics:
 twitter_url: https://www.twitter.com/pujamittal_
 facebook_url: https://www.facebook.com/
 behance_url: https://www.behance.net/pujamittal
-googleplus_url: https://plus.google.com/+Pixelhint/posts
-dribble_url: https://dribbble.com/pixelhint
+googleplus_url: 
+dribble_url: 
 rss_url:
