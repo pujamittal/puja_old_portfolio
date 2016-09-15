@@ -1,9 +1,11 @@
 # Header
 menu:
   Home: /
+  Resume: /Resume
   Logos: /tags/Logos
   Posters: /tags/Posters
   Banners: /tags/Banners
+
 
 # Default post title
 default_post_title: Untitled
