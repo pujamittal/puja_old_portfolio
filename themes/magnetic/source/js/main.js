@@ -80,7 +80,18 @@ $(document).ready(function(){
         tooltip.remove();
     });
 
-
+    $(document).keydown(function(e){
+        var prev = $(".previous");
+        var next = $(".next");
+        if (prev.length > 0 && next.length > 0)
+        var key_code = e.keyCode;
+        if (key_code == 37){
+            prev[0].click();
+        }
+        if (key_code == 39){
+            next[0].click();
+        }
+    });
 });
 
 
