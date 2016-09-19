@@ -7,7 +7,7 @@ tags:
 - Photoshop
 - Me
 cover_index: "/images/posts/hall senator poster ver 2.png"
-cover_detail: "/images/posts/hall senator poster ver 2.png"
+cover_detail: "/images/posts/Sarah's Mission Logo.png"
 ---
 ### Background
 This poster was created for my own campaign for hall senator whose duties were to be an active member on Student Council and act as a liaison for the students my hall.

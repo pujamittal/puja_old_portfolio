@@ -5,7 +5,7 @@ tags:
 - Logos
 - PowerPoint
 cover_index: "/images/posts/cliqq.png"
-cover_detail: "/images/posts/cliqq.png"
+cover_detail: "/images/posts/Sarah's Mission Logo.png"
 ---
 
 ### Background
