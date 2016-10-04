@@ -6,13 +6,15 @@ tags:
 - Campaigns
 - Inkscape
 cover_index: "/images/posts/alvina poster.png"
-cover_detail: "/images/posts/alvina poster.png"
+cover_detail: "/images/posts/Sarah's Mission Logo.png"
 ---
 ### Background
 This poster was created as part of a campaign for Concessions Director whose duties were to oversee the concessions booth at sporting events to generate profit for the Sophomore Class Club.
 
 ### Concept
 I decided to use the iconic popcorn bags used at concessions stands to immediately give the viewer an idea of the subject of the poster.
+
+<img src="/images/posts/alvina poster.png" style="width: 50%">
 
 ### Design Process
 Using a vector trace of a popcorn bag, I incorporated the candidate's face and name into the bag to make a unique and personal campaign poster.
